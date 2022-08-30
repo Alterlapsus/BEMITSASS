@@ -1,5 +1,6 @@
 
-# Instrucciones para compilar archivos SCSS a CSS.
+# Instrucciones 
+- para compilar archivos SCSS a CSS.
 
 - Descargar node js en https://nodejs.org/es/download/
 
