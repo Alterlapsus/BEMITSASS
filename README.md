@@ -2,6 +2,7 @@
 # Instrucciones 
 - para compilar archivos SCSS a CSS.
 
+---
 - Descargar node js en https://nodejs.org/es/download/
 
 - Abrir una terminal en la carpeta BEMIT (este proyecto) y ejecutar la siguiente línea de comando:
